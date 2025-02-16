@@ -1,4 +1,4 @@
-# DIO | Resumos Git
+# DIO | Resumos Git e GitHub
 
 Repositório para armazenar resumos sobre GIt do curso de Versionamento de Código com Git da [Black Lótus Startup](http://lipsum.com/).
 
